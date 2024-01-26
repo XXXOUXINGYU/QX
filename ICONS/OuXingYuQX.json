@@ -1,0 +1,26 @@
+{
+  "name" : "OuXingYuQX",
+  "icons" : [
+    {"name" : "Alipay.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/AliPay.png"},
+    {"name" : "Apple.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Apple.png"},
+    {"name" : "Bing.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Bing.png"},
+    {"name" : "ChatGPT.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/ChatGPT.png"},
+    {"name" : "Wechat.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Wechat.png"},
+    {"name" : "Youtube.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Youtube.png"},
+    {"name" : "Gmail.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Gmail.png"},
+    {"name" : "Google.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Google.png"},
+    {"name" : "Telegram.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Telegram.png"},
+    {"name" : "Microsoft.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Microsoft.png"},
+    {"name" : "Netflix.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Netflix.png"},
+    {"name" : "Onedrive.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Onedrive.png"},
+    {"name" : "Pornhub.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Pornhub.png"},
+    {"name" : "HongKong.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/HongKong.png"},
+    {"name" : "Singapore.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Singapore.png"},
+    {"name" : "Japan.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Japan.png"},
+    {"name" : "Korea.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Korea.png"},
+    {"name" : "France.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/France.png"},
+    {"name" : "UK.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/UK.png"},
+    {"name" : "US.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/US.png"},
+    {"name" : "Germany.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/QX/main/ICONS/Germany.png"}
+  ]
+}
