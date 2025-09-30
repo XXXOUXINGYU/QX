@@ -18,8 +18,8 @@
 // 可添加多个账号
 const ORIGINAL_COOKIES = [
     {   // 账号1
-        'passToken': '这里换成你的passToken',
-        'userId': '这里换成你的userId'
+        'passToken': 'V1:J7rrshrufaw8uWrlTMO7x1oEssq3KSjm0vRDBu2tDhm3uV/L5TrGDIdJx85mIDEZcm4qLqu6tplq3Nzwwye/rAwz1Dc3CBfv2Xp8Yvpz+SGcs386uPCShdBgXpMwaNMCIz1dPYqk9Ic3IGteU3uhQHBZ6un+fp1fBEeSA9YnrOsEOBStRgpS0vcKcrQrbWhuKAiv8O31ZnXsTJRci1XCAoycH1thpMbovZf4q3WV6fvW/Wc4ky7u8nJjY+zRe3xGlQKuMXfz7C0U+U3vp0LzYyORuRqlxx1ptOIXPHU9sthkpZ7Qul9M10fbevC/zWYK/zh4xnafBhWXurJPdcqaIA==',
+        'userId': '3035180589'
     },
     {   // 账号2 (如果不需要，可以删除或注释掉这一段)
         'passToken': 'xxxxx',
